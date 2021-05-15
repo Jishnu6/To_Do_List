@@ -1,0 +1,56 @@
+h1{
+    text-align:center;
+    font-family: 'Berkshire Swash', cursive;
+    font-size:82px;
+    padding-bottom:10%;
+}
+
+body{
+    background-color:bisque;
+}
+
+.form-control:hover{
+    border-color: brown;  
+}
+
+#form{
+margin-left:20px;
+margin-right:20px;
+margin-bottom:20px;
+}
+
+#button{
+    background-color: rgb(107, 2, 2);
+    color:white;    
+}
+
+li{
+    color:brown;
+    padding:12px;
+    border:solid;
+    width:40%;
+    border-color:brown;
+    text-transform: capitalize;
+    list-style-type: None;
+    display:block;
+
+
+}
+
+
+li:hover{
+    cursor:pointer;
+    background-color:brown;
+    color:white;
+    
+}
+.close{
+    padding:12px 16px 12px 16px;
+    right:0;
+
+
+}
+.close:hover{
+    opacity:1;
+    color:white;
+}
